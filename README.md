@@ -1,1 +1,1 @@
-Botchat is application with this you can send messages with wenhooks!
+Botchat is application with this you can send messages with webhooks!
